@@ -10,6 +10,9 @@ root.render(
     <App />
   </React.StrictMode>
 );
+// 페이지에서 id = 'root'인 것을 찾아서 <App />을 넣겠다
+
+
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
